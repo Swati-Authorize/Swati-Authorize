@@ -58,6 +58,11 @@
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=Swati-Authorize&theme=tokyonight" />
 </p>
+## 📫 Connect with Me
+
+- 💼 LinkedIn: https://www.linkedin.com/in/YOUR-LINKEDIN
+- 📧 Email: your-email@gmail.com
+- 
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Swati-Authorize&show_icons=true&theme=tokyonight" height="180"/>
