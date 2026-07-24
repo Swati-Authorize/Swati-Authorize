@@ -34,6 +34,11 @@
 ## 📊 GitHub Stats
 ## 🔥 GitHub Streak
 ## 💻 Tech Stack
+## 🏆 GitHub Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Swati-Authorize&theme=tokyonight&no-frame=true&row=1&column=6"/>
+</p>
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas)
