@@ -35,6 +35,9 @@
 ## 🔥 GitHub Streak
 ## 💻 Tech Stack
 ## 🏆 GitHub Trophies
+## 📈 Contribution Graph
+
+[![Swati's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Swati-Authorize&theme=tokyo-night)](https://github.com/Swati-Authorize)
 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=Swati-Authorize&theme=tokyonight&no-frame=true&row=1&column=6"/>
