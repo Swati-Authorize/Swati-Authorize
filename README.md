@@ -32,6 +32,11 @@
 
 🔹 Gopuff Market Analysis
 ## 📊 GitHub Stats
+## 🔥 GitHub Streak
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=Swati-Authorize&theme=tokyonight" />
+</p>
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Swati-Authorize&show_icons=true&theme=tokyonight" height="180"/>
