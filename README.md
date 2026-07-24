@@ -1,4 +1,7 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=F76464&center=true&width=435&lines=Hi+%F0%9F%91%8B+I'm+Swati+Suryawanshi+;Data+Analyst;Python+Developer;Machine+learning+Enthusiast)](https://git.io/typing-svg)
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Swati-Authorize&label=Profile%20Views&color=0e75b6&style=flat" />
+</p>
 📊 Data Analyst | Python Developer
 🎓 B.Tech CSE Student
 📈 Machine Learning Enthusiast
