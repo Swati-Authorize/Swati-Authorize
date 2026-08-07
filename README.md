@@ -58,39 +58,77 @@
 ---
 
 ## 📂 Featured Projects
+<h2>📂 Featured Projects</h2>
 
-### 🏦 FinTech Banking Analysis
-Data analysis project focused on banking and financial insights.
+<table>
+<tr>
 
-**Tech:** Python | Pandas | SQL | Data Analysis
+<td width="50%">
 
----
+<h3>🛒 Retail Purchase Prediction</h3>
 
-### 🛒 Retail Customer Purchase Prediction
-Machine Learning project for predicting customer purchase behavior.
+<p>
+Machine Learning project for analyzing customer behavior
+and predicting purchase patterns.
+</p>
 
-**Tech:** Python | Pandas | Scikit-Learn | Machine Learning
+<p>
+<b>Python</b> • <b>Pandas</b> • <b>Scikit-Learn</b>
+</p>
 
----
+</td>
 
-### 🏥 Healthcare Risk Prediction
-Machine Learning project focused on healthcare risk prediction using patient-related data.
+<td width="50%">
 
-**Tech:** Python | Pandas | Scikit-Learn | Machine Learning
+<h3>🏦 FinTech Banking Analysis</h3>
 
----
+<p>
+Data analysis project focused on banking transactions,
+customer insights and financial patterns.
+</p>
 
-### 📧 Email Spam Detection
-NLP-based Machine Learning application that classifies messages as spam or legitimate.
+<p>
+<b>Python</b> • <b>SQL</b> • <b>Power BI</b>
+</p>
 
-**Tech:** Python | NLP | Scikit-Learn | Streamlit
+</td>
 
----
+</tr>
 
-### 🌐 Language Detection
-Machine Learning application that identifies the language of a given text.
+<tr>
 
-**Tech:** Python | NLP | Scikit-Learn | Streamlit
+<td width="50%">
+
+<h3>🏥 Healthcare Risk Prediction</h3>
+
+<p>
+Machine Learning solution for predicting healthcare
+risk using patient-related data.
+</p>
+
+<p>
+<b>Python</b> • <b>Pandas</b> • <b>ML</b>
+</p>
+
+</td>
+
+<td width="50%">
+
+<h3>📧 Email Spam Detection</h3>
+
+<p>
+NLP-based application for classifying messages
+as spam or legitimate.
+</p>
+
+<p>
+<b>Python</b> • <b>NLP</b> • <b>Streamlit</b>
+</p>
+
+</td>
+
+</tr>
+</table>
 
 ---
 
