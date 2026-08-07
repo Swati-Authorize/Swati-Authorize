@@ -57,7 +57,6 @@
 
 ---
 
-## 📂 Featured Projects
 <h2>📂 Featured Projects</h2>
 
 <table>
