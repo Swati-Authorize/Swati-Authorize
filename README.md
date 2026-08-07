@@ -138,6 +138,9 @@ as spam or legitimate.
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Swati-Authorize&layout=compact&hide_border=true&theme=transparent" height="170"/>
 </p>
 ---
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=Swati-Authorize&hide_border=true&theme=transparent" />
+</p>
 
 ## 📈 GitHub Activity
 
