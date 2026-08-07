@@ -1,3 +1,10 @@
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,100:764ba2&height=220&section=header&text=Swati%20Suryawanshi&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38"/>
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=667EEA&center=true&vCenter=true&width=700&lines=Data+Engineer+%7C+Data+Analyst;Python+Developer+%7C+Machine+Learning;SQL+%7C+Power+BI+%7C+Python;Turning+Data+into+Insights+%F0%9F%93%8A" />
+</p>
 # Hi, I'm Swati Suryawanshi 👋
 
 ### Data Engineer | Data Analyst | Python Developer | Machine Learning
