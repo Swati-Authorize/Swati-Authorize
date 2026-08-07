@@ -29,44 +29,15 @@
 
 ---
 
-<!-- ================= TECHNICAL SKILLS ================= -->
+## 🛠️ Technical Skills
 
-<h2 align="center">🛠️ Technical Skills</h2>
+### Programming & Data
 
-<p align="center">
-  <i>Technologies and tools I use to build data-driven solutions</i>
-</p>
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-336791?style=flat&logo=postgresql&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white)
 
-<br>
-
-<table align="center">
-<tr>
-
-<td align="center" width="33%">
-
-### 🐍 Programming & Data
-
-<img src="https://skillicons.dev/icons?i=python" width="55"/>
-
-<br><br>
-
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-
-<br>
-
-<img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white"/>
-
-<br>
-
-<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
-
-<br>
-
-<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
-
-</td>
-
-<td align="center" width="33%">
 
 ### 📊 Data Analytics
 
