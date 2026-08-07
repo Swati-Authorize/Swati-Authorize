@@ -142,25 +142,33 @@ as spam or legitimate.
   <img src="https://streak-stats.demolab.com?user=Swati-Authorize&hide_border=true&theme=transparent" />
 </p>
 
-## 📈 GitHub Activity
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Swati-Authorize&hide_border=true" />
-</p>
-
 ---
 
-## 🎯 Current Focus
+<h2 align="center">🎯 Career Focus</h2>
 
-```text
-Data Engineering
-     ↓
-Python + SQL
-     ↓
-Data Analysis
-     ↓
-Power BI
-     ↓
-Machine Learning
-     ↓
-Cloud & AI
+<p align="center">
+
+<img src="https://img.shields.io/badge/Data%20Engineering-667eea?style=for-the-badge&logo=databricks&logoColor=white"/>
+<img src="https://img.shields.io/badge/Data%20Analytics-764ba2?style=for-the-badge&logo=powerbi&logoColor=white"/>
+<img src="https://img.shields.io/badge/Machine%20Learning-4facfe?style=for-the-badge&logo=scikitlearn&logoColor=white"/>
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+
+</p>
+
+<h2 align="center">🏆 Certification</h2>
+
+<p align="center">
+
+<img src="https://img.shields.io/badge/Microsoft%20Certified-Fabric%20Data%20Engineer-0078D4?style=for-the-badge&logo=microsoft&logoColor=white"/>
+
+</p>
+
+<p align="center">
+  <b>Microsoft Certified: Fabric Data Engineer Associate</b>
+</p>
+
+<br>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,100:764ba2&height=100&section=footer"/>
+</p>
