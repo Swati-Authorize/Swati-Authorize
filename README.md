@@ -29,15 +29,15 @@
 
 ---
 
-## 🛠️ Technical Skills
+<h2>🛠️ Tech Stack</h2>
 
-### Programming & Data
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,sql,pandas,numpy,sklearn,jupyter,git,github,vscode" />
+</p>
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-336791?style=flat&logo=postgresql&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white)
-
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=powerbi" />
+</p>
 ### 📊 Data Analytics
 
 <img src="https://skillicons.dev/icons?i=powerbi" width="55"/>
