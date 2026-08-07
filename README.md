@@ -29,19 +29,171 @@
 
 ---
 
-## 🛠️ Technical Skills
+<!-- ================= TECHNICAL SKILLS ================= -->
 
-### Programming & Data
-
-<h2>🛠️ Tech Stack</h2>
+<h2 align="center">🛠️ Technical Skills</h2>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,sql,pandas,numpy,sklearn,jupyter,git,github,vscode" />
+  <i>Technologies and tools I use to build data-driven solutions</i>
 </p>
 
+<br>
+
+<table align="center">
+<tr>
+
+<td align="center" width="33%">
+
+### 🐍 Programming & Data
+
+<img src="https://skillicons.dev/icons?i=python" width="55"/>
+
+<br><br>
+
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+
+<br>
+
+<img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white"/>
+
+<br>
+
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
+
+<br>
+
+<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
+
+</td>
+
+<td align="center" width="33%">
+
+### 📊 Data Analytics
+
+<img src="https://skillicons.dev/icons?i=powerbi" width="55"/>
+
+<br><br>
+
+<img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
+
+<br>
+
+<img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=plotly&logoColor=white"/>
+
+<br>
+
+<img src="https://img.shields.io/badge/EDA-4B5563?style=for-the-badge"/>
+
+<br>
+
+<img src="https://img.shields.io/badge/Data%20Visualization-6366F1?style=for-the-badge"/>
+
+</td>
+
+<td align="center" width="33%">
+
+### 🤖 Machine Learning
+
+<img src="https://skillicons.dev/icons?i=sklearn" width="55"/>
+
+<br><br>
+
+<img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
+
+<br>
+
+<img src="https://img.shields.io/badge/Classification-7C3AED?style=for-the-badge"/>
+
+<br>
+
+<img src="https://img.shields.io/badge/Regression-2563EB?style=for-the-badge"/>
+
+<br>
+
+<img src="https://img.shields.io/badge/NLP-059669?style=for-the-badge"/>
+
+</td>
+
+</tr>
+
+<tr>
+
+<td align="center" width="33%">
+
+### ⚙️ Data Engineering
+
+<img src="https://skillicons.dev/icons?i=python,sql" width="120"/>
+
+<br><br>
+
+<img src="https://img.shields.io/badge/ETL-0F766E?style=for-the-badge"/>
+
+<br>
+
+<img src="https://img.shields.io/badge/Data%20Processing-0EA5E9?style=for-the-badge"/>
+
+<br>
+
+<img src="https://img.shields.io/badge/Microsoft%20Fabric-0078D4?style=for-the-badge&logo=microsoft&logoColor=white"/>
+
+</td>
+
+<td align="center" width="33%">
+
+### 💻 Development Tools
+
+<img src="https://skillicons.dev/icons?i=vscode,git,github,jupyter" width="220"/>
+
+<br><br>
+
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+
+<br>
+
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+
+<br>
+
+<img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white"/>
+
+</td>
+
+<td align="center" width="33%">
+
+### ☁️ Microsoft & Cloud
+
+<img src="https://img.shields.io/badge/Microsoft%20Fabric-0078D4?style=for-the-badge&logo=microsoft&logoColor=white"/>
+
+<br><br>
+
+<img src="https://img.shields.io/badge/DP--700%20Certified-0078D4?style=for-the-badge&logo=microsoft&logoColor=white"/>
+
+<br>
+
+<img src="https://img.shields.io/badge/Data%20Engineering-2563EB?style=for-the-badge"/>
+
+<br>
+
+<img src="https://img.shields.io/badge/Cloud%20Data-4F46E5?style=for-the-badge"/>
+
+</td>
+
+</tr>
+</table>
+
+<br>
+
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=powerbi" />
+
+<img src="https://img.shields.io/badge/Python-Expertise-3776AB?style=flat-square&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/SQL-Data-336791?style=flat-square&logo=postgresql&logoColor=white"/>
+<img src="https://img.shields.io/badge/Power%20BI-Analytics-F2C811?style=flat-square&logo=powerbi&logoColor=black"/>
+<img src="https://img.shields.io/badge/Machine%20Learning-AI-F7931E?style=flat-square&logo=scikit-learn&logoColor=white"/>
+<img src="https://img.shields.io/badge/Microsoft%20Fabric-Data%20Engineering-0078D4?style=flat-square&logo=microsoft&logoColor=white"/>
+
 </p>
+
+<!-- ================= END TECHNICAL SKILLS ================= -->
 ### Data Analytics & Visualization
 
 ![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=flat&logo=powerbi&logoColor=black)
