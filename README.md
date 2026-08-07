@@ -6,14 +6,15 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=667EEA&center=true&vCenter=true&width=700&lines=Data+Engineer+%7C+Data+Analyst;Python+Developer+%7C+Machine+Learning;SQL+%7C+Power+BI+%7C+Python;Turning+Data+into+Insights+%F0%9F%93%8A" />
 </p>
 
-### Data Engineer | Data Analyst | Python Developer | Machine Learning
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Swati-Authorize&label=Profile%20Views&color=667eea&style=for-the-badge" />
+</p>
 
-B.Tech CSE Student passionate about building data-driven solutions, 
-machine learning applications, and analytical dashboards.
+<h2 align="center">👩‍💻 Data Engineer | Data Analyst | ML Enthusiast</h2>
 
-I enjoy working with data, transforming raw information into meaningful insights,
-and building practical projects using Python, SQL, Power BI, and Machine Learning.
-
+<p align="center">
+  Building data-driven solutions with Python, SQL, Power BI & Machine Learning.
+</p>
 ---
 
 ## 👩‍💻 About Me
