@@ -33,11 +33,15 @@
 
 ### Programming & Data
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-336791?style=flat&logo=postgresql&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white)
+<h2>🛠️ Tech Stack</h2>
 
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,sql,pandas,numpy,sklearn,jupyter,git,github,vscode" />
+</p>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=powerbi" />
+</p>
 ### Data Analytics & Visualization
 
 ![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=flat&logo=powerbi&logoColor=black)
